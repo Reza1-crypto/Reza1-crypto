@@ -1,5 +1,13 @@
-# 💫 About Me:
-Currently pursuing B.Tech in Computer Science & Engineering (3 year)<br>Currently working on improving my programming skills and building practical pprojects.<br>Looking to collaborate on interesting projects, open source & innovative ideas.<br>Currently learning Data Structures & Algorithms, Software Development & new technologies.<br>Exploring software development, problem-solving.<br>Ask me about Programming Java, Python, DBMS and SQL.<br>Turning coffee into code and ideas into projects.
+# 💫 Hi 👋, I'm Md Reza
+
+Email Me 👉 ✉️ **ansarimdreza7@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:**Currently pursuing B.Tech in Computer Science & Engineering (3 year) 
+- 🌱 **I’m currently learning:**Currently working on improving my programming skills and building practical projects. 
+- 👯 **I’m looking to collaborate on:**Looking to collaborate on interesting projects, open source & innovative ideas.  
+- 💬 **Ask me about:** Collaboration, Tech Support,>Ask me about Programming Java, Python, DBMS and SQL.
+- 📫 **How to reach me:**ansarimdreza7@gmail.com
+- ⚡ **Fun fact:**Turning coffee into code and ideas into projects. 
 
 
 ## 🌐 Socials:
