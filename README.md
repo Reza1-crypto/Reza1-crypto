@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently pursuing B.Tech in Computer Science & Engineering (3 year)<br>Currently working o improving my programming skills and building practical pprojects.<br>Looking to collaborate on interesting projects, open source & innovative ideas.<br>Currently learning Data Structures & Algorithms, Software Development & new technologies.<br>Exploring software development, problem-solving.<br>Ask me about Programming Java, Python, DBMS and SQL.<br>Turning coffee into code and ideas into projects.
+Currently pursuing B.Tech in Computer Science & Engineering (3 year)<br>Currently working on improving my programming skills and building practical pprojects.<br>Looking to collaborate on interesting projects, open source & innovative ideas.<br>Currently learning Data Structures & Algorithms, Software Development & new technologies.<br>Exploring software development, problem-solving.<br>Ask me about Programming Java, Python, DBMS and SQL.<br>Turning coffee into code and ideas into projects.
 
 
 ## 🌐 Socials:
