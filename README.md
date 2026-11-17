@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **ansarimdreza7@gmail.com** For Collaboration/Project or An
 - 🔭 **I’m currently working on:**Currently pursuing B.Tech in Computer Science & Engineering (3 year) 
 - 🌱 **I’m currently learning:**Currently working on improving my programming skills and building practical projects. 
 - 👯 **I’m looking to collaborate on:**Looking to collaborate on interesting projects, open source & innovative ideas.  
-- 💬 **Ask me about:** Collaboration, Tech Support,>Ask me about Programming Java, Python, DBMS and SQL.
+- 💬 **Ask me about:** Collaboration, Tech Support, Programming Java, Python, DBMS and SQL.
 - 📫 **How to reach me:**ansarimdreza7@gmail.com
 - ⚡ **Fun fact:**Turning coffee into code and ideas into projects. 
 
